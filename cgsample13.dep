@@ -1,0 +1,2 @@
+cgsample13.o: cgsample13.c
+main.o: main.c
